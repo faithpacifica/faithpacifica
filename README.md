@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a Frontend Developer who has a good understanding of HTML, CSS, JavaScript, Vue and React. I am currently mastering: Advanced Javascript by taking ZTM Academy and Coursera courses.
+I am a Frontend Developer who has a good understanding of HTML, CSS, JavaScript, Vue and React.
 
 * 🌍  I'm based in Tashkent city
 * ✉️  You can contact me at [faithpacifica@gmail.com](mailto:faithpacifica@gmail.com)
