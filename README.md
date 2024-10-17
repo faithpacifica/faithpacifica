@@ -6,9 +6,8 @@ Frontend Developer
 
 I am a Frontend Developer who has a good understanding of HTML, CSS, JavaScript, Vue and React.
 
-* 🌍  I'm based in Tashkent city
+* 🌍  I'm from Uzbekistan , however currently I live in Tokyo.
 * ✉️  You can contact me at [faithpacifica@gmail.com](mailto:faithpacifica@gmail.com)
-* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
