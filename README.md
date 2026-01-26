@@ -60,7 +60,8 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
     <img src="https://cdn.simpleicons.org/github/181717" width="32"/>
   </a>
   <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
+
   </a>
   <a href="mailto:faithpacifica@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
