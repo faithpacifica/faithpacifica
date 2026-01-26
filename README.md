@@ -55,7 +55,6 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 • Build real production applications  
 • Become a versatile software engineer
 
----
 
 ## **📫 Contact**
 
