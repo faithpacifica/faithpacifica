@@ -6,9 +6,9 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 ---
 
-## **🛠 Tech Stack**
+## 🛠 Tech Stack
 
-### **🎨 Frontend**
+### 🎨 Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
@@ -18,7 +18,11 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36"/>
+
+  <!-- GSAP -->
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="36" height="36" alt="GSAP"/>
 </p>
+
 
 ### **🧩 Backend & Database**
 <p align="left">
