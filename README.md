@@ -37,14 +37,12 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
 </p>
 
----
 
 ## **📈 Currently Learning**
 - Advanced React patterns & performance  
 - Backend architecture & databases  
 - AI integration into web apps  
 
----
 
 ## **🎯 Career Goals**
 - Frontend / Fullstack Developer role in Tokyo 🇯🇵  
@@ -55,18 +53,9 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 ## **📫 Contact**
 
-<p align="left">
-  <a href="https://github.com/faithpacifica">
-    <img src="https://cdn.simpleicons.org/github/181717" width="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
-
-  </a>
-  <a href="mailto:faithpacifica@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
-  </a>
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/dildora-muslimova-9449941b5/)  
+📧 [Email](mailto:faithpacifica@gmail.com)  
+🐙 [GitHub](https://github.com/faithpacifica)
 
 ---
 
