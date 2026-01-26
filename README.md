@@ -24,7 +24,7 @@ Redux Toolkit • Git & GitHub • Figma • REST APIs
 
 - Advanced React patterns & performance
 - Backend architecture & databases
-- Automation & RPA basics
+-AI Integration
 
 ---
 
