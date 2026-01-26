@@ -1,33 +1,77 @@
-Hi, I'm Dildora Muslimova 👋✨
-🚀 Frontend & Fullstack Developer | Tokyo 🇯🇵 (Originally from Uzbekistan 🇺🇿)
+# **Hi, I'm Dildora Muslimova 👋✨**
+### **🚀 Frontend & Fullstack Developer | Tokyo 🇯🇵 (Originally from Uzbekistan 🇺🇿)**
 
-I build modern, fast and scalable web applications using React, Next.js and TypeScript.
-Currently focused on full-stack projects and preparing for Frontend / Fullstack roles in Japan.
+I build modern, fast and scalable web applications using **React, Next.js and TypeScript**.  
+Currently focused on full-stack projects and preparing for **Frontend / Fullstack roles in Japan**.
 
-🛠 Tech Stack
-🎨 Frontend
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36"/> </p>
-🧩 Backend & Database
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="36"/> </p>
-🛠 Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/> </p>
-📈 Currently Learning
+---
 
-Advanced React patterns & performance
+## **🛠 Tech Stack**
 
-Backend architecture & databases
+### **🎨 Frontend**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36"/>
+</p>
 
-AI integration into web apps
+### **🧩 Backend & Database**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="36"/>
+</p>
 
-🎯 Career Goals
+### **🛠 Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
+</p>
 
-Frontend / Fullstack Developer role in Tokyo 🇯🇵
+---
 
-Build real-world production apps
+## **📈 Currently Learning**
+- Advanced React patterns & performance  
+- Backend architecture & databases  
+- AI integration into web apps  
 
-Grow into strong software engineer
+---
 
-📫 Contact
-<p align="left"> <a href="mailto:faithpacifica@gmail.com"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/> </a> <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/> </a> <a href="https://github.com/faithpacifica" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/> </a> </p>
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=faithpacifica&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithpacifica&layout=compact&theme=tokyonight" height="165"/> </p>
+## **🎯 Career Goals**
+- Frontend / Fullstack Developer role in Tokyo 🇯🇵  
+- Build real-world production apps  
+- Grow into strong software engineer  
+
+---
+
+## **📫 Contact**
+
+<p align="left">
+  <a href="mailto:faithpacifica@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
+  </a>
+  <a href="https://github.com/faithpacifica" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
+  </a>
+</p>
+
+---
+
+## **📊 GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faithpacifica&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithpacifica&layout=compact&theme=tokyonight" height="165"/>
+</p>
