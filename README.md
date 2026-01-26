@@ -56,14 +56,14 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 ## **📫 Contact**
 
 <p align="left">
+  <a href="https://github.com/faithpacifica">
+    <img src="https://cdn.simpleicons.org/github/181717" width="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
+  </a>
   <a href="mailto:faithpacifica@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dildora-muslimova-9449941b5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
-  </a>
-  <a href="https://github.com/faithpacifica" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
   </a>
 </p>
 
