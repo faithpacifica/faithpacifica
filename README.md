@@ -45,9 +45,11 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 
 ## **🎯 Career Goals**
-- Frontend / Fullstack Developer role in Tokyo 🇯🇵  
-- Build real-world production apps  
-- Grow into strong software engineer  
+• Start as Frontend / Fullstack Developer in Japan 🇯🇵  
+• Gradually move into DevOps & Cloud technologies ☁️  
+• Learn CI/CD, Docker, and cloud infrastructure  
+• Build real production applications  
+• Become a versatile software engineer
 
 ---
 
