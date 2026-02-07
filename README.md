@@ -51,16 +51,9 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 
 ### **🛠 Tools**
-<!-- <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
-</p> -->
 
 <p align="left">
   <!-- State Management -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" title="Redux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" title="Redux Toolkit"/>
 
   <!-- Testing -->
