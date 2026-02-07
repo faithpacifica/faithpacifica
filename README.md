@@ -69,9 +69,7 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 <p align="left">
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faithpacifica&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithpacifica&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faithpacifica&show_icons=true&theme=tokyonight"/>
+
 
 </p>
