@@ -51,12 +51,32 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 
 ### **🛠 Tools**
-<p align="left">
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
+</p> -->
+
+<p align="left">
+  <!-- State Management -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" title="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" title="Redux Toolkit"/>
+
+  <!-- Testing -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="36" title="Jest"/>
+  <img src="https://testing-library.com/img/logo-large.png" width="36" title="React Testing Library"/>
+
+  <!-- Build Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="36" title="Webpack"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="36" title="Vite"/>
+
+  <!-- Other Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" title="Figma"/>
 </p>
+
 
 
 ## **📈 Currently Learning**
