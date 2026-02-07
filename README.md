@@ -66,10 +66,6 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 
 ## **📊 GitHub Stats**
 
-<p align="left">
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.zcy.dev/api?username=faithpacifica&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=faithpacifica&layout=compact&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faithpacifica&show_icons=true&theme=tokyonight"/>
-
-
-</p>
