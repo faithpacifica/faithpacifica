@@ -84,7 +84,6 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 • Learn CI/CD, Docker, and cloud infrastructure  
 • Build scalable web applications
 • Integrate AI (LLM) into real-world products
-• Become a versatile software engineer
 
 
 ## **📫 Contact**
