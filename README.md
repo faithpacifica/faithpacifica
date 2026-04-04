@@ -82,8 +82,8 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 • Start as Frontend / Fullstack Developer in Japan 🇯🇵  
 • Gradually move into DevOps & Cloud technologies ☁️  
 • Learn CI/CD, Docker, and cloud infrastructure  
-- Build scalable web applications
-- Integrate AI (LLM) into real-world products
+• Build scalable web applications
+• Integrate AI (LLM) into real-world products
 • Become a versatile software engineer
 
 
