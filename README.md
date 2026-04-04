@@ -32,7 +32,7 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="36"/>
 </p> -->
-### 🧩 Backend
+### 🧩 Backend Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" title="Express.js"/>
@@ -56,7 +56,7 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
   <!-- State Management -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" title="Redux Toolkit"/>
 
-  <!-- Testing -->
+  <!-- Testing --> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="36" title="Jest"/>
   <img src="https://testing-library.com/img/logo-large.png" width="36" title="React Testing Library"/>
 
@@ -82,7 +82,8 @@ Currently focused on full-stack projects and preparing for **Frontend / Fullstac
 • Start as Frontend / Fullstack Developer in Japan 🇯🇵  
 • Gradually move into DevOps & Cloud technologies ☁️  
 • Learn CI/CD, Docker, and cloud infrastructure  
-• Build real production applications  
+- Build scalable web applications
+- Integrate AI (LLM) into real-world products
 • Become a versatile software engineer
 
 
